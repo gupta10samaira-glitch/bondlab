@@ -12,6 +12,8 @@ Open `dist/index.html` in a modern browser. No installation, account, API key or
 - Price/yield curve and yield-shock comparisons
 - Transparent payment-by-payment workings and CSV export
 - Original discount, premium and zero-coupon examples
+- Beginner glossary with current yield and a dynamic premium/par/discount comparison
+- Six original practice exercises with difficulty filters, revealable solutions and calculator presets
 
 ## Check the calculations
 Install Node.js (18 or later), then run `node --test tests/finance.test.cjs`.
@@ -34,7 +36,7 @@ This is a deterministic classroom model. It does not model settlement calendars,
 See CONTRIBUTING.md. Original examples only; do not upload course slides, proprietary data or copyrighted teaching materials.
 
 ## Current status
-Version 0.1: working initial prototype. No claims of users, adoption, external contributors or educational impact are made. Public GitHub publication and student feedback are next steps, not completed milestones. This project is not affiliated with Anthropic, NUS or any course.
+Version 0.2: working initial prototype. No claims of users, adoption, external contributors or educational impact are made. Public GitHub publication and student feedback are next steps, not completed milestones. This project is not affiliated with Anthropic, NUS or any course.
 
 ## License
 MIT, see LICENSE.
